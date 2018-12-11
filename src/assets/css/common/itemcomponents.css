@@ -1,0 +1,15 @@
+.itemimage {
+  margin-top: 30rpx;
+  width: 320rpx;
+  height: 220rpx;
+}
+
+
+.horizontal {
+  display: inline-block;
+  padding: 10rpx;
+}
+
+.norview {
+  padding: 10rpx;
+}

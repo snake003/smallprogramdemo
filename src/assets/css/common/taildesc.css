@@ -1,0 +1,21 @@
+.divtaildesc {
+  flex: 1;
+  font-size: 18px;
+  height: 60rpx;
+  line-height: 60rpx;
+  overflow: hidden;
+  color: #333333;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.divsubtaildesc {
+  flex: 1;
+  font-size: 16px;
+  height: 50rpx;
+  line-height: 50rpx;
+  overflow: hidden;
+  color: #888888;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

@@ -1,0 +1,19 @@
+.scroll-view_H {
+  display: inline-block;
+  white-space: nowrap;
+  overflow-x: scroll;
+  width: 100%;
+  height: 350 rpx;
+}
+
+.left {
+  width: 320 rpx;
+  height: 380 rpx;
+  float: left;
+}
+
+.right {
+  width: 320 rpx;
+  height: 380 rpx;
+  float: right;
+}
